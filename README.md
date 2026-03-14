@@ -25,7 +25,7 @@ Building modern web platforms, mobile apps and digital products.
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,tailwind,flutter,firebase,mysql,unity" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,tailwind,flutter,firebase,mysql,unity" />
 </p>
 
 ---
